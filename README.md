@@ -1,6 +1,4 @@
-# vue-update
 
-> Vue Auth & more
 
 ## Build Setup
 
